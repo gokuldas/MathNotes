@@ -17,6 +17,14 @@ unexpectedly, or your control system has unknown frequencies in it?
 
 Open the notebook to know more.
 
+### Convolution [WIP]
+Convolution sums look complicated, but they describe a very simple phenomenon.
+Everything from how you sound over the phone to how spacecrafts vibrate in
+flight. Most people already have real-life experience of convolution, but dont
+recognize its formalization.
+
+Open the notebook to know more.
+
 ## Community
 Want to discuss this and more? Head over to
 [MathLovers](https://matrix.to/#/#mathlovers:diasp.in) and share your ideas and
