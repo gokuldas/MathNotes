@@ -10,20 +10,20 @@ editing.
 
 ## Topics
 
-### Aliasing
+### [Aliasing](aliasing/aliasing.ipynb)
 Aliasing is a very egragious signal processing design problem that every
 engineer and DIYer should know. What if the pitch of your audio changes
 unexpectedly, or your control system has unknown frequencies in it?
 
-Open the notebook to know more.
+Open [this notebook](aliasing/aliasing.ipynb) to know more.
 
-### Convolution [WIP]
+### [Convolution [WIP]](convolution/convolution.ipynb)
 Convolution sums look complicated, but they describe a very simple phenomenon.
 Everything from how you sound over the phone to how spacecrafts vibrate in
 flight. Most people already have real-life experience of convolution, but dont
 recognize its formalization.
 
-Open the notebook to know more.
+Open [this notebook](convolution/convolution.ipynb) to know more.
 
 ## Community
 Want to discuss this and more? Head over to
