@@ -4,9 +4,24 @@ MathNotes: Attempt to Explain Math, Pure & Simple
 This code tree is a bunch of Jupyter Notebooks designed to explain math to
 common man in simple terms. Each notebook contains the complete explanation for
 a topic with graphs, equation and commentry. The pages can be viewed on the
-website itself (following the link), or can be downloaded and viewed locally on
-your system. You will need Jupyter Notebook installed for local viewing and
-editing.
+Gitlab itself (following links below), or can be downloaded and viewed locally
+on your system. 
+
+## Requirements and Usage
+In order to view and edit these notebooks locally, you will need Python3
+scientific stack (Python3, Numpy, Matplotlib, Jupyter, etc) installed. You can
+get the entire python scientific stack for almost any operating system by
+installing [Anaconda Distribution](https://www.anaconda.com/download/). Choose
+Python 3.x version of the stack.
+
+Once you have the stack installed, you can clone this repository and run jupyter
+notebook from it. For GNU/Linux, you can use the following bash/zsh commands:
+
+```sh
+git clone https://gitlab.com/gokuldasb/MathNotes.git
+cd MathNotes
+jupyter notebook
+```
 
 ## Topics
 
