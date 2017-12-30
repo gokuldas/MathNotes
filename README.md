@@ -4,8 +4,9 @@ MathNotes: Attempt to Explain Math, Pure & Simple
 This code tree is a bunch of Jupyter Notebooks designed to explain math to
 common man in simple terms. Each notebook contains the complete explanation for
 a topic with graphs, equation and commentry. The pages can be viewed on the
-Gitlab itself (following links below), or can be downloaded and viewed locally
-on your system. 
+[Gitlab](https://gitlab.com/gokuldasb/MathNotes) or
+[Online NBviewer](https://nbviewer.jupyter.org/github/gokuldas/MathNotes/blob/master/index.ipynb)
+(following links below), or can be downloaded and viewed locally on your system.
 
 ## Requirements and Usage
 In order to view and edit these notebooks locally, you will need Python3
